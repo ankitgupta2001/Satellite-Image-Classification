@@ -39,6 +39,7 @@ opt_func = torch.optim.Adam
 ```
 - We trained the model for 10 epochs on Goole Colab, each epoch taking about `~45 minutes` on Google Colab. Total time taken `~8 hours`. 
 - We were able to achieve an accuracy of `0.9901111111111112` upon predicting on `27000` training and test images.
+- The trained model can be found at the following [link](https://drive.google.com/drive/folders/1pYjY267fb97PwRC3V0RSce_U6ooCKK1P?usp=sharing)
 
 
 
@@ -49,6 +50,7 @@ Following is the confusion matrix generated:
 <p align="center">
 <img align="center" src ="Confusion%20Matrix%20%20Test%20Data.png">
 </p>
+
 
 
 
